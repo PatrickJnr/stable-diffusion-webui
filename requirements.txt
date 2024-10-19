@@ -32,3 +32,4 @@ torch
 torchdiffeq
 torchsde
 transformers==4.30.2
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
